@@ -1,0 +1,6 @@
+Cubos y dashboard para windows.
+25/10/2017
+Le puse direccion relativa.
+Las definiciones xml las pase para: 
+D:\DESARROLLO\XAF\DevExp17.1\CuboCMP\WDashboards\bin\Debug\DBXML
+deben ser instaladas manualmente cuando se instala el aplicativo debajo de <program>/INE/CuboXMP/DBXML
